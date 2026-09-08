@@ -1,6 +1,12 @@
 # e-portfolio-3--Intellectual-property
 
 
+
+
+
+
+
+
 Student: Santosh Basnet
 Student number: 12318546
 Workshop: Week 7: Intellectual Property
