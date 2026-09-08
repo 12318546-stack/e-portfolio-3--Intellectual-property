@@ -63,6 +63,14 @@ Campus: Sydney
 
 
 
+
+
+
+
+
+
+
+
 Artefact 1 – Australian Intellectual Property Report 2024
 
 Source: IP Australia (2024), Australian Intellectual Property Report 2024.
@@ -94,8 +102,23 @@ Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 
+
+
+
+
+
+
 Summary of the artefact
 The Australian Intellectual Property Report 2024 provides an overview of intellectual property activity in Australia and explains the role of IP in supporting innovation and economic activity. It covers major IP rights including patents, trade marks, designs, plant breeder’s rights and copyright. I selected this report because it gives current Australian evidence that connects the legal protection of ideas, inventions and brands with wider economic and social outcomes (IP Australia, 2024).
+
+
+
+
+
+
+
+
+
 
 
 
@@ -151,7 +174,20 @@ This artefact is a direct link to Week 7: Workshop which covers that IP protecti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 Artefact 2 – Trade Marks as an Economic Indicator
+
+
 
 
 
@@ -183,8 +219,31 @@ Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
 This 2025 IP Australia analytical note examines whether trade mark filings can predict changes in Australia’s business cycle. It reports that trade mark filings can provide an early indicator of significant economic turning points. The study also estimates that a 10% increase in trade marks filed in a quarter predicts a 2.7% increase in real GDP two quarters later (Nguyen, Yoo & Falk 2025).
+
+
+
+
+
+
+
+
+
 
 
 
@@ -239,10 +298,26 @@ I chose this artefact because it shows a less obvious social function of an IP r
 
 
 
+
+
+
+
+
 Artefact 3 – AI and Patent Inventorship in Australia
 
 Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement.
  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -287,9 +362,28 @@ This is the Australian stance on AI inventions according to the guidance issued 
 
 
 
+
+
+
+
+
+
+
+
+
 Justification for choosing the artefact
 
 I selected this artefact due to the fact that it relates a fast increasing technology with the Week 7 argument of patents and human authorship. Raising a crucial governance question for all the ICT professionals: Responsibility does not disappear just because AI is being used as a tool. The artefact is a practical example to illustrate the need of taking legal rules into account when thinking of technological capability.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -348,6 +442,21 @@ Source: Attorney-General’s Department 2025, Copyright and AI – Transparency 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
 
 On 4 February 2025, the Australian Attorney-General's Department released a discourse paper for the Australian Copyright and Artificial Intelligence Reference Group to consider, on copyright and AI. The paper analyses the issues of transparency at the intersection of copyright and AI, especially when copyright material is used as an input into an AI system. It shows that Australian policymakers are making a real effort to reflect on the role of copyright policy in relation to new AI practices (Attorney-General's Department 2025).
@@ -379,7 +488,39 @@ On 4 February 2025, the Australian Attorney-General's Department released a disc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Justification for choosing the artefact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This artefact was chosen as it is a direct extension of the Week 7 workshop discussion around copyright and AI. It shows that it's not an AI versus creator or a technology developer versus a user or a government. For an ICT professional, this illustrates the importance to think about ethical and legal issues when designing or using digital technologies. I've come to understand from the workshop that copyright issues are a new phenomenon with AI, and that it's not always straightforward to decide who the creator of an AI-generated work should be. I have also found nothing in this regard that can currently say it can claim it is copyrighted by the AI. With the ongoing development of AI technology, I asked myself whether the copyright laws should be updated.
 
@@ -403,7 +544,35 @@ This artefact was chosen as it is a direct extension of the Week 7 workshop disc
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Workshop 7: Attendance and Engagement Evidence
+
+
+
 
 
 
@@ -448,7 +617,41 @@ Workshop 7: Attendance and Engagement Evidence
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
+
+
+
+
+
+
+
+
+
+
+
 This image serves as the proof of my attendance and participation in Week 7's Intellectual Property Workshop. The topic of this workshop included the purpose of Intellectual Property, its copyright, patents, trademarks and trade secrets. There were discussions on copyright infringement, fair dealing, time and format shifting, digital rights management (DRM) and technological protection methods, software copyright and software licensing. One of the most interesting case studies for me was the case of the selfie taken by a monkey that posed a question regarding human authorship and ownership of this piece of work.
 
 
@@ -473,8 +676,47 @@ This image serves as the proof of my attendance and participation in Week 7's In
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Justification on why I chose the artefact
+
+
+
+
+
+
+
+
 The choice of this particular artefact is motivated by the fact that it shows my participation in the class but at the same time reflects the wider experience I have obtained during Week 7. First, the workshop opened my eyes to the fact that intellectual property rights are not only about protecting the creator of the product; there is an issue of balancing innovation, access and society here too. The connections between the monkey's selfie, AI and human authorship particularly resonated with me as it was a good example of how technology can raise certain ethical and legal questions. Secondly, I became more conscious about the fact that digital content and software are easily replicated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -514,8 +756,29 @@ AI was used to organize my thoughts, comprehend the e-portfolio guidelines, and 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 References
+
+
+
+
+
+
 Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper, Australian Government, 4 February, viewed 8 September 2026, <https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper>.
+
 
 
 
