@@ -674,6 +674,7 @@ This artefact was chosen as it is a direct extension of the Week 7 workshop disc
 
 Workshop 7: Attendance and Engagement Evidence
 
+<img width="2398" height="2590" alt="IMG_6854" src="https://github.com/user-attachments/assets/c53055f5-fba8-4bba-8470-6cd4e4a9fd61" />
 
 
 
@@ -687,12 +688,6 @@ Workshop 7: Attendance and Engagement Evidence
 
 
 
-
-
-
-
-
-<img width="3024" height="4032" alt="IMG_6854 (1)" src="https://github.com/user-attachments/assets/1aa782cc-af50-40ab-8caf-146092e1010a" />
 
 
 
