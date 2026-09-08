@@ -71,9 +71,27 @@ Campus: Sydney
 
 
 
+
+
+
+
+
+
+
 Artefact 1 – Australian Intellectual Property Report 2024
 
 Source: IP Australia (2024), Australian Intellectual Property Report 2024.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,6 +160,17 @@ The Australian Intellectual Property Report 2024 provides an overview of intelle
 
 
 Justification for choosing the artefact
+
+
+
+
+
+
+
+
+
+
+
 This artefact is a direct link to Week 7: Workshop which covers that IP protection can help to foster creativity and investment; and that society gains when knowledge is shared more broadly too. The report was informative on both the legal and innovation/competition aspects of IP. 
 
 
@@ -234,6 +263,18 @@ Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading e
 
 
 Summary of the artefact
+
+
+
+
+
+
+
+
+
+
+
+
 This 2025 IP Australia analytical note examines whether trade mark filings can predict changes in Australia’s business cycle. It reports that trade mark filings can provide an early indicator of significant economic turning points. The study also estimates that a 10% increase in trade marks filed in a quarter predicts a 2.7% increase in real GDP two quarters later (Nguyen, Yoo & Falk 2025).
 
 
@@ -267,6 +308,19 @@ This 2025 IP Australia analytical note examines whether trade mark filings can p
 
 
 Justification for choosing the artefact
+
+
+
+
+
+
+
+
+
+
+
+
+
 I chose this artefact because it shows a less obvious social function of an IP right. In Week 7, trade marks were introduced mainly as identifiers of products and services. This study shows that trade mark activity can also provide useful information about business conditions, linking IP with economic decision-making. I found it interesting that trade marks can have a connection with the wider economy, not just with individual businesses. It showed me that changes in trade mark activity can reflect changes in business activity. This made me realise that IP can have a bigger impact on society and the economy than I initially thought.
 
 
@@ -305,7 +359,9 @@ I chose this artefact because it shows a less obvious social function of an IP r
 
 Artefact 3 – AI and Patent Inventorship in Australia
 
+
 Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement.
+
  
 
 
@@ -338,6 +394,22 @@ Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlem
 
 
 Summary of the artefact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is the Australian stance on AI inventions according to the guidance issued by IP Australia in 2025. Australian law requires that an inventor be a natural human being – an AI system cannot be the inventor itself. The guidance also refers to the Thaler case and outlines that AI can make a contribution to an invention, and a human may be able to be an inventor even if they did not make the contribution of AI (IP Australia 2025).
 
@@ -372,6 +444,19 @@ This is the Australian stance on AI inventions according to the guidance issued 
 
 
 Justification for choosing the artefact
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 I selected this artefact due to the fact that it relates a fast increasing technology with the Week 7 argument of patents and human authorship. Raising a crucial governance question for all the ICT professionals: Responsibility does not disappear just because AI is being used as a tool. The artefact is a practical example to illustrate the need of taking legal rules into account when thinking of technological capability.
 
@@ -413,6 +498,7 @@ I selected this artefact due to the fact that it relates a fast increasing techn
 
 
 Artefact 4 – Copyright and AI Transparency
+
 
 Source: Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper.
  
@@ -458,6 +544,21 @@ Source: Attorney-General’s Department 2025, Copyright and AI – Transparency 
 
 
 Summary of the artefact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 On 4 February 2025, the Australian Attorney-General's Department released a discourse paper for the Australian Copyright and Artificial Intelligence Reference Group to consider, on copyright and AI. The paper analyses the issues of transparency at the intersection of copyright and AI, especially when copyright material is used as an input into an AI system. It shows that Australian policymakers are making a real effort to reflect on the role of copyright policy in relation to new AI practices (Attorney-General's Department 2025).
 
@@ -652,6 +753,11 @@ Summary of the artefact
 
 
 
+
+
+
+
+
 This image serves as the proof of my attendance and participation in Week 7's Intellectual Property Workshop. The topic of this workshop included the purpose of Intellectual Property, its copyright, patents, trademarks and trade secrets. There were discussions on copyright infringement, fair dealing, time and format shifting, digital rights management (DRM) and technological protection methods, software copyright and software licensing. One of the most interesting case studies for me was the case of the selfie taken by a monkey that posed a question regarding human authorship and ownership of this piece of work.
 
 
@@ -699,6 +805,14 @@ Justification on why I chose the artefact
 
 
 
+
+
+
+
+
+
+
+
 The choice of this particular artefact is motivated by the fact that it shows my participation in the class but at the same time reflects the wider experience I have obtained during Week 7. First, the workshop opened my eyes to the fact that intellectual property rights are not only about protecting the creator of the product; there is an issue of balancing innovation, access and society here too. The connections between the monkey's selfie, AI and human authorship particularly resonated with me as it was a good example of how technology can raise certain ethical and legal questions. Secondly, I became more conscious about the fact that digital content and software are easily replicated.
 
 
@@ -733,7 +847,28 @@ The choice of this particular artefact is motivated by the fact that it shows my
 
 
 
+
+
+
+
 Use of AI in planning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 AI was used to organize my thoughts, comprehend the e-portfolio guidelines, and make my justifications and summaries more refined. I picked my own artifacts and verified the information before including it in my writing.
 
 
@@ -770,7 +905,24 @@ AI was used to organize my thoughts, comprehend the e-portfolio guidelines, and 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 References
+
+
+
+
+
+
 
 
 
