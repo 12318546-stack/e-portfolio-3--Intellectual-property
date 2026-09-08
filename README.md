@@ -8,10 +8,27 @@
 
 
 Student: Santosh Basnet
+
 Student number: 12318546
+
 Workshop: Week 7: Intellectual Property
+
 Lecturer: Umapathy Venugopal
+
 Campus: Sydney 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31,8 +48,21 @@ Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 
+
+
+
+
+
+
+
+
 Summary of the artefact
 The Australian Intellectual Property Report 2024 provides an overview of intellectual property activity in Australia and explains the role of IP in supporting innovation and economic activity. It covers major IP rights including patents, trade marks, designs, plant breeder’s rights and copyright. I selected this report because it gives current Australian evidence that connects the legal protection of ideas, inventions and brands with wider economic and social outcomes (IP Australia, 2024).
+
+
+
+
+
 
 
 
@@ -49,15 +79,43 @@ This artefact is a direct link to Week 7: Workshop which covers that IP protecti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Artefact 2 – Trade Marks as an Economic Indicator
+
+
 
 
 Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading economic indicator of the Australian business cycle, IP Australia.
 
 
 
+
+
+
+
+
+
+
 Summary of the artefact
 This 2025 IP Australia analytical note examines whether trade mark filings can predict changes in Australia’s business cycle. It reports that trade mark filings can provide an early indicator of significant economic turning points. The study also estimates that a 10% increase in trade marks filed in a quarter predicts a 2.7% increase in real GDP two quarters later (Nguyen, Yoo & Falk 2025).
+
+
+
+
+
+
+
 
 
 
@@ -74,14 +132,44 @@ I chose this artefact because it shows a less obvious social function of an IP r
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Artefact 3 – AI and Patent Inventorship in Australia
 
 Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement.
  
 
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
 
 This is the Australian stance on AI inventions according to the guidance issued by IP Australia in 2025. Australian law requires that an inventor be a natural human being – an AI system cannot be the inventor itself. The guidance also refers to the Thaler case and outlines that AI can make a contribution to an invention, and a human may be able to be an inventor even if they did not make the contribution of AI (IP Australia 2025).
+
+
+
+
+
+
+
+
 
 
 
@@ -102,10 +190,30 @@ I selected this artefact due to the fact that it relates a fast increasing techn
 
 
 
+
+
+
+
+
+
+
+
+
+
 Artefact 4 – Copyright and AI Transparency
 
 Source: Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper.
  
+
+
+
+
+
+
+
+
+
+
 
 
 Summary of the artefact
@@ -121,9 +229,24 @@ On 4 February 2025, the Australian Attorney-General's Department released a disc
 
 
 
+
+
+
+
+
+
+
 Justification for choosing the artefact
 
 This artefact was chosen as it is a direct extension of the Week 7 workshop discussion around copyright and AI. It shows that it's not an AI versus creator or a technology developer versus a user or a government. For an ICT professional, this illustrates the importance to think about ethical and legal issues when designing or using digital technologies. I've come to understand from the workshop that copyright issues are a new phenomenon with AI, and that it's not always straightforward to decide who the creator of an AI-generated work should be. I have also found nothing in this regard that can currently say it can claim it is copyrighted by the AI. With the ongoing development of AI technology, I asked myself whether the copyright laws should be updated.
+
+
+
+
+
+
+
+
 
 
 
@@ -147,8 +270,21 @@ This image serves as the proof of my attendance and participation in Week 7's In
 
 
 
+
+
+
+
+
+
+
+
+
 Justification on why I chose the artefact
 The choice of this particular artefact is motivated by the fact that it shows my participation in the class but at the same time reflects the wider experience I have obtained during Week 7. First, the workshop opened my eyes to the fact that intellectual property rights are not only about protecting the creator of the product; there is an issue of balancing innovation, access and society here too. The connections between the monkey's selfie, AI and human authorship particularly resonated with me as it was a good example of how technology can raise certain ethical and legal questions. Secondly, I became more conscious about the fact that digital content and software are easily replicated.
+
+
+
+
 
 
 
@@ -159,13 +295,41 @@ The choice of this particular artefact is motivated by the fact that it shows my
 Use of AI in planning
 AI was used to organize my thoughts, comprehend the e-portfolio guidelines, and make my justifications and summaries more refined. I picked my own artifacts and verified the information before including it in my writing.
 
+
+
+
+
+
+
+
+
+
+
+
+
 References
 Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper, Australian Government, 4 February, viewed 8 September 2026, <https://www.ag.gov.au/rights-and-protections/publications/copyright-and-ai-transparency-discussion-paper>.
 
 
+
+
+
 IP Australia 2024, Australian Intellectual Property Report 2024, Australian Government, 30 April, viewed 8 September 2026, <https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/publications-and-reports/Australian-Intellectual-Property-Report-2024>.
 
+
+
+
+
+
+
 IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement, Australian Government, 8 January, viewed 8 September 2026, <https://manuals.ipaustralia.gov.au/patent/5.4.3-inventions-produced-by-artificial-intelligence>.
+
+
+
+
+
+
+
 
 
 Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading economic indicator of the Australian business cycle, IP Australia, 26 February, viewed 8 September 2026, <https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/publications-and-reports/trade-marks-and-business-cycle-analytical-note>.
