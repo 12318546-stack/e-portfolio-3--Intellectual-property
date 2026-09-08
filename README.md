@@ -7,15 +7,39 @@
 
 
 
+
+
 Student: Santosh Basnet
+
 
 Student number: 12318546
 
+
 Workshop: Week 7: Intellectual Property
+
 
 Lecturer: Umapathy Venugopal
 
+
 Campus: Sydney 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,8 +80,31 @@ Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
 The Australian Intellectual Property Report 2024 provides an overview of intellectual property activity in Australia and explains the role of IP in supporting innovation and economic activity. It covers major IP rights including patents, trade marks, designs, plant breeder’s rights and copyright. I selected this report because it gives current Australian evidence that connects the legal protection of ideas, inventions and brands with wider economic and social outcomes (IP Australia, 2024).
+
+
+
+
+
+
+
+
+
 
 
 
@@ -91,12 +138,41 @@ This artefact is a direct link to Week 7: Workshop which covers that IP protecti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Artefact 2 – Trade Marks as an Economic Indicator
 
 
 
 
+
+
+
+
+
+
+
+
 Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading economic indicator of the Australian business cycle, IP Australia.
+
+
+
+
+
+
+
+
 
 
 
@@ -121,8 +197,27 @@ This 2025 IP Australia analytical note examines whether trade mark filings can p
 
 
 
+
+
+
+
+
+
+
+
+
+
 Justification for choosing the artefact
 I chose this artefact because it shows a less obvious social function of an IP right. In Week 7, trade marks were introduced mainly as identifiers of products and services. This study shows that trade mark activity can also provide useful information about business conditions, linking IP with economic decision-making. I found it interesting that trade marks can have a connection with the wider economy, not just with individual businesses. It showed me that changes in trade mark activity can reflect changes in business activity. This made me realise that IP can have a bigger impact on society and the economy than I initially thought.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,9 +254,24 @@ Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlem
 
 
 
+
+
+
+
+
+
+
+
 Summary of the artefact
 
 This is the Australian stance on AI inventions according to the guidance issued by IP Australia in 2025. Australian law requires that an inventor be a natural human being – an AI system cannot be the inventor itself. The guidance also refers to the Thaler case and outlines that AI can make a contribution to an invention, and a human may be able to be an inventor even if they did not make the contribution of AI (IP Australia 2025).
+
+
+
+
+
+
+
 
 
 
@@ -200,6 +310,14 @@ I selected this artefact due to the fact that it relates a fast increasing techn
 
 
 
+
+
+
+
+
+
+
+
 Artefact 4 – Copyright and AI Transparency
 
 Source: Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper.
@@ -216,9 +334,34 @@ Source: Attorney-General’s Department 2025, Copyright and AI – Transparency 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Summary of the artefact
 
 On 4 February 2025, the Australian Attorney-General's Department released a discourse paper for the Australian Copyright and Artificial Intelligence Reference Group to consider, on copyright and AI. The paper analyses the issues of transparency at the intersection of copyright and AI, especially when copyright material is used as an input into an AI system. It shows that Australian policymakers are making a real effort to reflect on the role of copyright policy in relation to new AI practices (Attorney-General's Department 2025).
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -252,7 +395,49 @@ This artefact was chosen as it is a direct extension of the Week 7 workshop disc
 
 
 
+
+
+
+
+
+
+
+
 Workshop 7: Attendance and Engagement Evidence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="3024" height="4032" alt="IMG_6854 (1)" src="https://github.com/user-attachments/assets/1aa782cc-af50-40ab-8caf-146092e1010a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -265,6 +450,15 @@ Workshop 7: Attendance and Engagement Evidence
 
 Summary of the artefact
 This image serves as the proof of my attendance and participation in Week 7's Intellectual Property Workshop. The topic of this workshop included the purpose of Intellectual Property, its copyright, patents, trademarks and trade secrets. There were discussions on copyright infringement, fair dealing, time and format shifting, digital rights management (DRM) and technological protection methods, software copyright and software licensing. One of the most interesting case studies for me was the case of the selfie taken by a monkey that posed a question regarding human authorship and ownership of this piece of work.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -292,8 +486,21 @@ The choice of this particular artefact is motivated by the fact that it shows my
 
 
 
+
+
+
+
+
 Use of AI in planning
 AI was used to organize my thoughts, comprehend the e-portfolio guidelines, and make my justifications and summaries more refined. I picked my own artifacts and verified the information before including it in my writing.
+
+
+
+
+
+
+
+
 
 
 
@@ -314,6 +521,13 @@ Attorney-General’s Department 2025, Copyright and AI – Transparency discussi
 
 
 
+
+
+
+
+
+
+
 IP Australia 2024, Australian Intellectual Property Report 2024, Australian Government, 30 April, viewed 8 September 2026, <https://www.ipaustralia.gov.au/tools-and-research/professional-resources/data-research-and-reports/publications-and-reports/Australian-Intellectual-Property-Report-2024>.
 
 
@@ -322,7 +536,15 @@ IP Australia 2024, Australian Intellectual Property Report 2024, Australian Gove
 
 
 
+
+
+
+
 IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement, Australian Government, 8 January, viewed 8 September 2026, <https://manuals.ipaustralia.gov.au/patent/5.4.3-inventions-produced-by-artificial-intelligence>.
+
+
+
+
 
 
 
