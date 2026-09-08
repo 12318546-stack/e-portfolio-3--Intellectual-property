@@ -127,6 +127,10 @@ Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 Summary of the artefact
+
+
+
+
 The Australian Intellectual Property Report 2024 provides an overview of intellectual property activity in Australia and explains the role of IP in supporting innovation and economic activity. It covers major IP rights including patents, trade marks, designs, plant breeder’s rights and copyright. I selected this report because it gives current Australian evidence that connects the legal protection of ideas, inventions and brands with wider economic and social outcomes (IP Australia, 2024).
 
 
@@ -263,6 +267,10 @@ Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading e
 
 
 Summary of the artefact
+
+
+
+
 
 
 
