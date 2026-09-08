@@ -126,7 +126,7 @@ Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 
-Summary of the artefact
+Summary of the artefact:
 
 
 
@@ -163,7 +163,7 @@ The Australian Intellectual Property Report 2024 provides an overview of intelle
 
 
 
-Justification for choosing the artefact
+Justification for choosing the artefact:
 
 
 
@@ -266,7 +266,7 @@ Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading e
 
 
 
-Summary of the artefact
+Summary of the artefact:
 
 
 
@@ -315,7 +315,7 @@ This 2025 IP Australia analytical note examines whether trade mark filings can p
 
 
 
-Justification for choosing the artefact
+Justification for choosing the artefact:
 
 
 
@@ -401,7 +401,7 @@ Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlem
 
 
 
-Summary of the artefact
+Summary of the artefact:
 
 
 
@@ -451,7 +451,7 @@ This is the Australian stance on AI inventions according to the guidance issued 
 
 
 
-Justification for choosing the artefact
+Justification for choosing the artefact:
 
 
 
@@ -551,7 +551,7 @@ Source: Attorney-General’s Department 2025, Copyright and AI – Transparency 
 
 
 
-Summary of the artefact
+Summary of the artefact:
 
 
 
@@ -609,7 +609,7 @@ On 4 February 2025, the Australian Attorney-General's Department released a disc
 
 
 
-Justification for choosing the artefact
+Justification for choosing the artefact:
 
 
 
@@ -749,7 +749,7 @@ Workshop 7: Attendance and Engagement Evidence
 
 
 
-Summary of the artefact
+Summary of the artefact:
 
 
 
@@ -804,7 +804,7 @@ This image serves as the proof of my attendance and participation in Week 7's In
 
 
 
-Justification on why I chose the artefact
+Justification on why I chose the artefact:
 
 
 
@@ -859,7 +859,7 @@ The choice of this particular artefact is motivated by the fact that it shows my
 
 
 
-Use of AI in planning
+Use of AI in planning:
 
 
 
