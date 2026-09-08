@@ -80,7 +80,6 @@ Campus: Sydney
 
 Artefact 1 – Australian Intellectual Property Report 2024
 
-Source: IP Australia (2024), Australian Intellectual Property Report 2024.
 
 
 
@@ -233,8 +232,6 @@ Artefact 2 – Trade Marks as an Economic Indicator
 
 
 
-Source: Nguyen, K, Yoo, YR & Falk, M 2025, Evaluating trade marks as a leading economic indicator of the Australian business cycle, IP Australia.
-
 
 
 
@@ -367,8 +364,6 @@ I chose this artefact because it shows a less obvious social function of an IP r
 
 Artefact 3 – AI and Patent Inventorship in Australia
 
-
-Source: IP Australia 2025, Artificial Intelligence – Inventorship and Entitlement.
 
  
 
@@ -508,7 +503,6 @@ I selected this artefact due to the fact that it relates a fast increasing techn
 Artefact 4 – Copyright and AI Transparency
 
 
-Source: Attorney-General’s Department 2025, Copyright and AI – Transparency discussion paper.
  
 
 
